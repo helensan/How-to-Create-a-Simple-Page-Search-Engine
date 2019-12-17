@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Coding Tutorials",
+    "Url": "/Tutorials",
+    "Description": "Coding tutorials main menu page"
+  },
+  {
+    "Name": "How to Make a Responsive Navigation with Viewport Tracking",
+    "Url": "/Tutorials/How-to-Make-a-Responsive-Navigation-with-Viewport-Tracking",
+    "Description": "Add a navigation that follows the user and highlights where they are scrolled on the page."
+  },
+  {
+    "Name": "How to Create a Simple Page Search Engine",
+    "Url": "/Tutorials/How-to-Create-a-Simple-Page-Search-Engine",
+    "Description": "This tutorial shows you how you can create a search bar that quickly search any page in your application"
+  }
+]

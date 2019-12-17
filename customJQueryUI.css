@@ -1,0 +1,20 @@
+.ui-autocomplete {
+    z-index: 100000;
+    padding: 0;
+    background: #fff;
+    box-shadow: 0 6px 10px 0 rgba(189,189,189,.5);
+    list-style: none;
+}
+
+.ui-menu-item {
+    padding: 10px;
+}
+
+    .ui-menu-item:hover {
+        cursor: pointer;
+        background: #f5f5f5;
+    }
+
+.ui-helper-hidden-accessible {
+    display: none;
+}
